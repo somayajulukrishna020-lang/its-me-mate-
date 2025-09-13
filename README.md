@@ -3,22 +3,20 @@
 
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=FFD700&center=true&vCenter=true&multiline=true&width=900&height=120&lines=🐍+PYTHON+MASTER+%26+Data+Scientist;📊+90%25+Python+Coding+%7C+AI+Specialist;🚀+TensorFlow+%7C+PyTorch+%7C+Scikit-learn;🤖+Building+AI+Solutions+with+Python;💡+Python+%3D+My+Primary+Language" alt="Typing SVG" />
+  <img src="./typing-animation.gif" alt="Custom Typing Animation" width="900" height="120" />
 </div>
 
 
-<h1 align="center"><samp>Building AI Solutions since 2022</samp> <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="32px" height="32px"> </h1>
+<h1 align="center"><samp>Building AI Solutions since 2024</samp> <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="32px" height="32px"> </h1>
 
-<h2 align="center"><samp>Hi 👋 I'm Sri Krishna</samp></h2>
+
 <h3 align="center"><samp>Data Scientist & AI Specialist from India</samp> </h3>
 
 <img align="center" alt="Data Science" width="1000" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif">
 
-<div style="margin-bottom: 200px;"></div>
 
-<samp>- 📫 Reach me at https://www.linkedin.com/in/sri-krishna-kolluri/</samp>
 
-<samp>- 📫 Reach me at somayajulukrushna020@gmail.com</samp>
+
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32"> About Me
 
