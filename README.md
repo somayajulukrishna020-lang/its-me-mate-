@@ -4,25 +4,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=FFD700&center=true&vCenter=true&multiline=true&width=900&height=120&lines=🐍+PYTHON+MASTER+%26+Data+Scientist;📊+90%25+Python+Coding+%7C+AI+Specialist;🚀+TensorFlow+%7C+PyTorch+%7C+Scikit-learn;🤖+Building+AI+Solutions+with+Python;💡+Python+%3D+My+Primary+Language" alt="Typing SVG" />
 </div>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&animation=twinkling" />
-</div>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=shark&color=gradient&height=140&section=header&text=Data%20Science%20Expert&fontSize=70&animation=twinkling&fontColor=fff" />
-</div>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="60">
-  <img src="https://user-images.githubusercontent.com/74038190/212284094-e50ceeb2-de86-4dd6-a4f8-9f4a4b74a912.gif" width="60">
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="60">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="60">
-</div>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="400">
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="400">
-</div>
+
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32"> About Me
 
@@ -39,20 +24,10 @@
 - 📚 Currently reading: "The Hundred-Page Machine Learning Book"
 
 <div align="left">
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50">
   <em>"In the world of AI, I don't just follow trends — I create them!"</em>
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50">
 </div>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="800"/>
-</div>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="200">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="200">
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="200">
-</div>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="600"/>
@@ -319,9 +294,7 @@ Motivation: "Every day is a chance to become 1% better! 💪"
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50">
   <h3>🌟 "Data is the new oil, but insights are the refined fuel!" 🌟</h3>
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50">
 </div>
 
 <div align="center">
