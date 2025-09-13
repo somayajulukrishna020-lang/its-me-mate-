@@ -18,7 +18,8 @@
 
 - 🔬 **Data Scientist** passionate about extracting insights from complex datasets
 - 🤖 **AI Specialist** building intelligent solutions for real-world problems  
-- 🐍 **Python Expert** with deep knowledge in ML, DL, and AI frameworks
+- 🐍 **Python Expert** - My most used language with deep knowledge in ML, DL, and AI frameworks
+- 📊 **Primary Stack**: Python (90% of my coding), R for statistics, SQL for databases
 - 📀 **Analytics Enthusiast** turning data into actionable business intelligence
 - 🌱 Currently learning **Advanced AI/ML** and **Gen AI Technologies**
 - 🎆 **Fun Fact**: I can debug code faster than I can debug my life!
@@ -48,6 +49,7 @@
 
 ### 💻 Programming Languages
 <div align="center">
+  <p><strong>🐍 Python is my primary language (90% of coding time)</strong></p>
   
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
@@ -159,7 +161,9 @@ class DataScientist:
     def __init__(self):
         self.name = "Sri Krishna"
         self.role = "Data Scientist & AI Specialist"
-        self.languages = ["Python", "R", "SQL"]
+        self.primary_language = "Python"  # 90% of my coding time
+        self.languages = ["Python (Expert)", "R (Advanced)", "SQL (Proficient)"]
+        self.python_expertise = ["NumPy", "Pandas", "Scikit-learn", "TensorFlow", "PyTorch"]
         self.current_learning = "Advanced GenAI & MLOps"
         
     def current_projects(self):
