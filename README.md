@@ -1,11 +1,11 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Hi there! I'm Sri Krishna
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=FF6B6B&center=true&vCenter=true&multiline=true&width=800&height=100&lines=🚀+Data+Scientist+%26+AI+Specialist;🐍+Python+Expert+%26+Problem+Solver;🤖+Building+Next-Gen+AI+Solutions;💡+Turning+Ideas+into+Reality" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=FFD700&center=true&vCenter=true&multiline=true&width=900&height=120&lines=🐍+PYTHON+MASTER+%26+Data+Scientist;📊+90%25+Python+Coding+%7C+AI+Specialist;🚀+TensorFlow+%7C+PyTorch+%7C+Scikit-learn;🤖+Building+AI+Solutions+with+Python;💡+Python+%3D+My+Primary+Language" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=Welcome%20to%20my%20AI%20Lab!&fontSize=30&fontAlignY=35&animation=twinkling&fontColor=fff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&animation=twinkling" />
 </div>
 
 <div align="center">
@@ -148,47 +148,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=somayajulukrishna020-lang&theme=github_dark&utcOffset=5.5"/>
 </div>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400"/>
-  <img src="https://user-images.githubusercontent.com/74038190/212284094-e50ceeb2-de86-4dd6-a4f8-9f4a4b74a912.gif" width="400"/>
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/238200426-29fd6286-4e7b-4d6c-818f-c4765d5e39a9.gif" width="600"/>
-</div>
-
-## <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="32"> Featured Projects
-
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <h3 align="center">🤖 AI Stock Market Predictor</h3>
-        <div align="center">
-          <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="200"/>
-          <br><br>
-          <p><strong>Tech Stack:</strong> Python, TensorFlow, Pandas, NumPy</p>
-          <p>Advanced ML model for predicting stock prices using LSTM networks and technical indicators.</p>
-          <p>
-            <a href="https://github.com/somayajulukrishna020-lang/stock-market-predictor">🔗 View Project</a>
-          </p>
-        </div>
-      </td>
-      <td width="50%">
-        <h3 align="center">📚 AI Document Assistant</h3>
-        <div align="center">
-          <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="200"/>
-          <br><br>
-          <p><strong>Tech Stack:</strong> Python, LangChain, OpenAI, Streamlit</p>
-          <p>Intelligent document analysis system using RAG architecture for question-answering.</p>
-          <p>
-            <a href="https://github.com/somayajulukrishna020-lang/ai-document-assistant">🔗 View Project</a>
-          </p>
-        </div>
-      </td>
-    </tr>
-  </table>
-</div>
 
 ## 💡 Current Focus & Learning Path
 
