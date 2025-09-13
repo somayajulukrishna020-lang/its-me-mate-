@@ -2,8 +2,8 @@
 
 
 
-<div align="center">
-  <img src="./typing-animation.gif" alt="Custom Typing Animation" width="900" height="120" />
+<div align="center" style="margin: 20px 0; padding: 20px;">
+  <img src="./typing-animation.gif" alt="Custom Typing Animation" width="800" style="max-width: 100%; height: auto; border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.4); border: 2px solid #FFD700;" />
 </div>
 
 
