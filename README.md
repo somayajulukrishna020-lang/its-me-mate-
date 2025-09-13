@@ -86,6 +86,12 @@ print("Building the future with AI! 🚀")
   </a>
 </div>
 
+## 📧 Contact Information
+
+**Email**: somayajulukrushna020@gmail.com  
+**LinkedIn**: [Sri Krishna Kolluri](https://www.linkedin.com/in/sri-krishna-kolluri/)  
+**GitHub**: [@somayajulukrishna020-lang](https://github.com/somayajulukrishna020-lang)  
+
 ---
 
 <div align="center">
