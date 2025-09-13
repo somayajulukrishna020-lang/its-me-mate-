@@ -43,16 +43,16 @@
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32"> Tech Stack & Skills
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,pandas,numpy,matplotlib,jupyter,r,sql,git,github,vscode,linux,docker,aws" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,r,mysql,anaconda,jupyter,aws,gcp,kaggle" />
 </div>
 
-### 💻 Languages & Frameworks
+### 💻 Programming Languages
 <div align="center">
   
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
 </div>
 
@@ -78,13 +78,14 @@
 
 </div>
 
-### ☁️ Cloud & DevOps
+### ☁️ Cloud & Data Platforms
 <div align="center">
   
 ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
 
 </div>
 
@@ -158,7 +159,7 @@ class DataScientist:
     def __init__(self):
         self.name = "Sri Krishna"
         self.role = "Data Scientist & AI Specialist"
-        self.languages = ["Python", "R", "SQL", "JavaScript"]
+        self.languages = ["Python", "R", "SQL"]
         self.current_learning = "Advanced GenAI & MLOps"
         
     def current_projects(self):
@@ -238,10 +239,10 @@ Learning_Path_2024:
     - RAG Architecture: █████████████████ 85%
     - Fine-tuning Models: ██████████████ 70%
     
-  🌐 MLOps_&_Deployment:
-    - Docker & Kubernetes: █████████████████ 85%
-    - CI/CD for ML: ███████████████ 75%
-    - Model Monitoring: ████████████ 60%
+  📈 MLOps_&_Data_Engineering:
+    - Model Deployment & Serving: █████████████████ 85%
+    - Data Pipeline Engineering: ███████████████ 75%
+    - Model Monitoring & A/B Testing: ████████████ 60%
     
   ☁️ Cloud_Platforms:
     - AWS SageMaker: ██████████████████ 90%
